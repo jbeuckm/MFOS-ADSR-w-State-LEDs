@@ -5,7 +5,7 @@
       <ModificationCount>0</ModificationCount>
       <objects>
         <points id="1">
-          <ModificationCount>26</ModificationCount>
+          <ModificationCount>28</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>7.5,0</p>
@@ -13,36 +13,36 @@
           </pts>
         </points>
         <points id="2">
-          <ModificationCount>26</ModificationCount>
+          <ModificationCount>28</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,128.5</p>
           </pts>
         </points>
         <points id="5">
-          <ModificationCount>26</ModificationCount>
+          <ModificationCount>28</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,125.5</p>
           </pts>
         </points>
         <text id="14" p1="12.1229999999972,110.548999999999,0" p2="5.2559999999972,42.4459999999986,0" Height="8" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>930</ModificationCount>
+          <ModificationCount>932</ModificationCount>
           <mat m="Identity" />gate</text>
         <text id="17" p1="27.1649999999964,92.8589999999982,0" p2="-1.73400000000362,24.7559999999982,0" Height="10.8" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>860</ModificationCount>
+          <ModificationCount>862</ModificationCount>
           <mat m="Identity" />A</text>
         <text id="19" p1="27.7520000000018,47.8519999999993,0" p2="22.9550000000018,6.3709999999993,0" Height="10.8" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>1175</ModificationCount>
+          <ModificationCount>1177</ModificationCount>
           <mat m="Identity" />S</text>
         <text id="20" p1="27.1510000000025,70.7159999999982,0" p2="0.466000000002474,29.6759999999982,0" Height="10.8" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>855</ModificationCount>
+          <ModificationCount>857</ModificationCount>
           <mat m="Identity" />D</text>
         <text id="7" p1="18.3999999999997,119.740000000001,0" p2="75.8499999999997,28.5400000000009,0" Height="8.09999999999999" Font="Arial" align="bottom,left">
-          <ModificationCount>497</ModificationCount>
+          <ModificationCount>499</ModificationCount>
           <mat m="Identity" />ADSR</text>
         <points id="44">
-          <ModificationCount>186</ModificationCount>
+          <ModificationCount>188</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>29.98,105.48</p>
@@ -50,7 +50,7 @@
           </pts>
         </points>
         <pline id="34">
-          <ModificationCount>6</ModificationCount>
+          <ModificationCount>8</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>60.7199999999956,0,0</p>
@@ -58,10 +58,10 @@
           </pts>
         </pline>
         <text id="37" p1="27.0199999999997,24.1099999999994,0" p2="10.5199999999997,18.0999999999994,0" Height="12" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>308</ModificationCount>
+          <ModificationCount>310</ModificationCount>
           <mat m="Identity" />R</text>
         <pline id="42" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>60.7199999999956,0,0</p>
@@ -71,13 +71,13 @@
           </pts>
         </pline>
         <text id="65" p1="36.6029999999972,110.548999999998,0" p2="29.7359999999972,42.4459999999979,0" Height="8" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>516</ModificationCount>
+          <ModificationCount>518</ModificationCount>
           <mat m="Identity" />trig</text>
         <text id="28" p1="36.0529999999961,12.3590000000002,0" p2="29.1859999999961,-55.744,0" Height="8" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>513</ModificationCount>
+          <ModificationCount>515</ModificationCount>
           <mat m="Identity" />out</text>
         <pline id="48">
-          <ModificationCount>207</ModificationCount>
+          <ModificationCount>209</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>13.9400000000013,74.4999999999982,0</p>
@@ -85,7 +85,7 @@
           </pts>
         </pline>
         <pline id="49">
-          <ModificationCount>207</ModificationCount>
+          <ModificationCount>209</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>35.7733333333328,74.4999999999982,0</p>
@@ -93,7 +93,7 @@
           </pts>
         </pline>
         <pline id="50">
-          <ModificationCount>207</ModificationCount>
+          <ModificationCount>209</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>13.9400000000013,97.2699999999982,0</p>
@@ -101,7 +101,7 @@
           </pts>
         </pline>
         <pline id="51">
-          <ModificationCount>207</ModificationCount>
+          <ModificationCount>209</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>35.7733333333328,97.2699999999982,0</p>
@@ -109,7 +109,7 @@
           </pts>
         </pline>
         <pline id="52">
-          <ModificationCount>207</ModificationCount>
+          <ModificationCount>209</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>13.9400000000013,51.7299999999982,0</p>
@@ -117,7 +117,7 @@
           </pts>
         </pline>
         <pline id="53">
-          <ModificationCount>207</ModificationCount>
+          <ModificationCount>209</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>35.7733333333328,51.7299999999982,0</p>
@@ -125,7 +125,7 @@
           </pts>
         </pline>
         <pline id="54">
-          <ModificationCount>207</ModificationCount>
+          <ModificationCount>209</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>13.9400000000013,28.9599999999982,0</p>
@@ -133,7 +133,7 @@
           </pts>
         </pline>
         <pline id="55">
-          <ModificationCount>207</ModificationCount>
+          <ModificationCount>209</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>35.7733333333328,28.9599999999982,0</p>
@@ -141,10 +141,10 @@
           </pts>
         </pline>
         <text id="56" p1="12.6229999999958,12.3590000000002,0" p2="5.7559999999958,-55.744,0" Height="8" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>81</ModificationCount>
+          <ModificationCount>83</ModificationCount>
           <mat m="Identity" />long</text>
         <points id="75">
-          <ModificationCount>4</ModificationCount>
+          <ModificationCount>6</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>52.75,112.64</p>
@@ -220,7 +220,7 @@
             <prim>54</prim>
             <prim>55</prim>
           </primitive>
-          <TargetDepth state="Value">-0.01</TargetDepth>
+          <TargetDepth state="Value">-0.005</TargetDepth>
           <DepthIncrement state="Default">0.4</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
           <CutOrdering state="Default">DepthFirst</CutOrdering>
