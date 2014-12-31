@@ -5,60 +5,34 @@
       <ModificationCount>0</ModificationCount>
       <objects>
         <text id="14" p1="1.58653021824115,100.574727913622,0" p2="-4.59376978175885,39.282027913621,0" Height="7.1999999999999993" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>1134</ModificationCount>
+          <ModificationCount>1136</ModificationCount>
           <mat m="Identity" />gate</text>
         <text id="17" p1="30.2905482012378,86.154614390075,0" p2="1.3915482012378,18.051614390075,0" Height="10.8" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>1026</ModificationCount>
+          <ModificationCount>1028</ModificationCount>
           <mat m="Identity" />A</text>
         <text id="19" p1="30.7199568343698,57.0643424442884,0" p2="25.9229568343698,15.5833424442884,0" Height="10.8" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>1347</ModificationCount>
+          <ModificationCount>1349</ModificationCount>
           <mat m="Identity" />S</text>
         <text id="20" p1="9.00171367333637,71.5759999999977,0" p2="-17.6832863266637,30.5359999999977,0" Height="10.8" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>1038</ModificationCount>
+          <ModificationCount>1040</ModificationCount>
           <mat m="Identity" />D</text>
         <text id="7" p1="11.3083884906972,119.740000000001,0" p2="68.7583884906972,28.5400000000009,0" Height="8.09999999999999" Font="Arial" align="bottom,left">
-          <ModificationCount>515</ModificationCount>
+          <ModificationCount>517</ModificationCount>
           <mat m="Identity" />ADSR</text>
         <text id="37" p1="8.87071367333357,42.733007190439,0" p2="-7.62928632666643,36.723007190439,0" Height="12" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>535</ModificationCount>
+          <ModificationCount>537</ModificationCount>
           <mat m="Identity" />R</text>
         <text id="65" p1="25.8248093544686,100.417136546747,0" p2="19.6445093544686,39.124436546747,0" Height="7.1999999999999993" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>729</ModificationCount>
+          <ModificationCount>731</ModificationCount>
           <mat m="Identity" />trig</text>
         <text id="28" p1="15.5854237445439,16.4812064736954,0" p2="9.40512374454385,-44.8114935263048,0" Height="7.1999999999999993" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>563</ModificationCount>
+          <ModificationCount>565</ModificationCount>
           <mat m="Identity" />out</text>
-        <text id="56" p1="30.2716640248029,31.1372035929206,0" p2="24.0913640248029,-30.1554964070796,0" Height="7.1999999999999993" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>145</ModificationCount>
+        <text id="56" p1="15.2448689425202,33.3434827291481,0" p2="9.06456894252022,-27.9492172708521,0" Height="7.1999999999999993" Font="1CamBam_Stick_9" align="bottom,left">
+          <ModificationCount>169</ModificationCount>
           <mat m="Identity" />long</text>
-        <text id="42" p1="2.06280935446625,31.294794959794,0" p2="-4.11749064553375,-29.9979050402062,0" Height="7.1999999999999993" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>69</ModificationCount>
-          <mat m="Identity" />short</text>
-        <points id="44">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>7.50000000000001,125.5</p>
-            <p>37.9799999999967,125.5</p>
-            <p>7.5,3</p>
-            <p>37.9799999999966,3</p>
-            <p>33.1178495306359,18.2333208729704</p>
-            <p>8.06082219776698,18.2385036067174</p>
-            <p>33.3802581637627,46.3973582770541</p>
-            <p>23.6623675182325,33.2045007259423</p>
-            <p>11.8430150027283,60.3102158281653</p>
-            <p>33.2754408975093,75.4389870480106</p>
-            <p>12.1581977364751,89.7798014334891</p>
-            <p>20.1690783107916,102.459153948993</p>
-            <p>17.9890783107904,112.630549630131</p>
-            <p>7.58804809714678,112.788140997004</p>
-            <p>27.917334423814,112.788140997004</p>
-            <p>38.0031819037109,112.945732363878</p>
-            <p>39.8679991699652,102.616745315866</p>
-          </pts>
-        </points>
         <pline id="49" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>3</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>45.4799999999949,0,0</p>
@@ -67,6 +41,31 @@
             <p>-2.36042874699263E-14,2.45900955847534E-15,0</p>
           </pts>
         </pline>
+        <points id="24">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>7.5,3</p>
+            <p>8.06082219776698,18.2385036067174</p>
+            <p>8.63557243594982,35.4107798621698</p>
+            <p>24.4266618653753,28.9968115047036</p>
+            <p>24.3947091232887,92.6164460372101</p>
+            <p>33.1178495306359,18.2333208729704</p>
+            <p>37.9799999999966,3</p>
+            <p>33.3802581637627,46.3973582770541</p>
+            <p>33.2754408975093,75.4389870480106</p>
+            <p>11.8430150027283,60.3102158281653</p>
+            <p>12.1581977364751,89.7798014334891</p>
+            <p>17.9890783107904,112.630549630131</p>
+            <p>7.58804809714678,112.788140997004</p>
+            <p>27.917334423814,112.788140997004</p>
+            <p>38.0031819037109,112.945732363878</p>
+            <p>20.1690783107916,102.459153948993</p>
+            <p>39.8679991699652,102.616745315866</p>
+            <p>7.50000000000001,125.5</p>
+            <p>37.9799999999967,125.5</p>
+          </pts>
+        </points>
       </objects>
     </layer>
   </layers>
@@ -113,9 +112,8 @@
             <prim>65</prim>
             <prim>28</prim>
             <prim>56</prim>
-            <prim>42</prim>
           </primitive>
-          <TargetDepth state="Value">-0.005</TargetDepth>
+          <TargetDepth state="Value">-0.002</TargetDepth>
           <DepthIncrement state="Default">0.4</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
           <CutOrdering state="Default">DepthFirst</CutOrdering>
@@ -142,7 +140,7 @@
           <SpindleRange state="Default">0</SpindleRange>
           <VelocityMode state="Default">Undefined</VelocityMode>
           <primitive>
-            <prim>44</prim>
+            <prim>24</prim>
           </primitive>
           <TargetDepth state="Value">-3.2</TargetDepth>
           <DepthIncrement state="Value">0.1</DepthIncrement>

@@ -31,25 +31,6 @@
         <text id="56" p1="30.2716640248029,31.1372035929206,0" p2="24.0913640248029,-30.1554964070796,0" Height="7.1999999999999993" Font="1CamBam_Stick_9" align="bottom,left">
           <ModificationCount>145</ModificationCount>
           <mat m="Identity" />long</text>
-        <pline id="40">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>45.4799999999949,0,0</p>
-            <p>-2.36042874699263E-14,2.45900955847534E-15,0</p>
-          </pts>
-        </pline>
-        <pline id="41">
-          <ModificationCount>1</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>45.4799999999949,0,0</p>
-            <p>45.4799999999949,128.5,0</p>
-            <p>0,128.5,0</p>
-            <p>-2.36042874699263E-14,2.45900955847534E-15,0</p>
-            <p>60.7199999999956,0,0</p>
-          </pts>
-        </pline>
         <text id="42" p1="2.06280935446625,31.294794959794,0" p2="-4.11749064553375,-29.9979050402062,0" Height="7.1999999999999993" Font="1CamBam_Stick_9" align="bottom,left">
           <ModificationCount>69</ModificationCount>
           <mat m="Identity" />short</text>
@@ -76,6 +57,16 @@
             <p>39.8679991699652,102.616745315866</p>
           </pts>
         </points>
+        <pline id="49" Closed="true">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>45.4799999999949,0,0</p>
+            <p>45.4799999999949,128.5,0</p>
+            <p>0,128.5,0</p>
+            <p>-2.36042874699263E-14,2.45900955847534E-15,0</p>
+          </pts>
+        </pline>
       </objects>
     </layer>
   </layers>
@@ -187,7 +178,7 @@
           <SpindleRange state="Default">0</SpindleRange>
           <VelocityMode state="Default">Undefined</VelocityMode>
           <primitive>
-            <prim>41</prim>
+            <prim>49</prim>
           </primitive>
           <TargetDepth state="Value">-3.2</TargetDepth>
           <DepthIncrement state="Value">0.1</DepthIncrement>
@@ -216,8 +207,8 @@
           <Tabs>
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
-              <ParentEntityID>41</ParentEntityID>
-              <ParametricPoint>0.125</ParametricPoint>
+              <ParentEntityID>49</ParentEntityID>
+              <ParametricPoint>0.12500000000000003</ParametricPoint>
               <Normal>
                 <X>1</X>
                 <Y>-0</Y>
@@ -225,7 +216,7 @@
             </HoldingTab>
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
-              <ParentEntityID>41</ParentEntityID>
+              <ParentEntityID>49</ParentEntityID>
               <ParametricPoint>0.375</ParametricPoint>
               <Normal>
                 <X>0</X>
@@ -234,7 +225,7 @@
             </HoldingTab>
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
-              <ParentEntityID>41</ParentEntityID>
+              <ParentEntityID>49</ParentEntityID>
               <ParametricPoint>0.625</ParametricPoint>
               <Normal>
                 <X>-1</X>
@@ -243,10 +234,10 @@
             </HoldingTab>
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
-              <ParentEntityID>41</ParentEntityID>
+              <ParentEntityID>49</ParentEntityID>
               <ParametricPoint>0.87499999999999989</ParametricPoint>
               <Normal>
-                <X>-4.04975223727852E-17</X>
+                <X>-5.406793224440665E-17</X>
                 <Y>-1</Y>
               </Normal>
             </HoldingTab>
